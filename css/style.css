@@ -25,3 +25,14 @@ body{
     font-size: 20px;
     margin-bottom: 10px;
 }
+
+.cabecera{
+    background-color: tomato;
+    color: white;
+    box-shadow: 6px 6px 34px -3px rgba(112,112,112,0.75);
+    padding-left: 20px;
+}
+
+.cabecera h1{
+    padding: 5px 0;
+}
