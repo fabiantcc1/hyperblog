@@ -36,3 +36,14 @@ body{
 .cabecera h1{
     padding: 5px 0;
 }
+
+.footer{
+    margin-top: 10px;
+    background-color: tomato;
+}
+
+.footer p{
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
