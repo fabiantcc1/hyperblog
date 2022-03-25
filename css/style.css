@@ -27,6 +27,10 @@ body{
     margin-bottom: 10px;
 }
 
+.imagen img{
+    width: 100%;
+}
+
 .cabecera{
     background-color: tomato;
     color: white;
